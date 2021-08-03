@@ -55,5 +55,9 @@ export class Step03AppsyncLambdaAsDatasourceStack extends cdk.Stack {
       typeName: "Query",
       fieldName: "hello",
     });
+    lambda_data_source.createResolver({
+      typeName: "Mutation",
+      fieldName: "addProduct",
+    });
   }
 }
