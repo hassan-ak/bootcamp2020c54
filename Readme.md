@@ -26,3 +26,10 @@ Note, never print your API Key to the logs in a production system. This was adde
 - [AppSync Docs](https://docs.aws.amazon.com/appsync/latest/devguide/what-is-appsync.html)
 - [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/)
 - [GraphQL Instructions](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/)
+
+## Video Lecture
+
+- [YouTube English](https://www.youtube.com/watch?v=iJj32I9A_Nc&ab_channel=PanacloudServerlessSaaSTraining)
+- [Facebook English](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
+- [YouTube Urdu](https://www.youtube.com/watch?v=mzl8tQzygOA)
+- [Facebook Urdu](https://www.facebook.com/zeeshanhanif/videos/10225258717359848)
