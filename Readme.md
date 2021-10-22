@@ -1,6 +1,8 @@
-# Integrate AppSync with Lambda as a Datasource
+# bootcamp2020c54 - Integrate AppSync with Lambda as a Datasource
 
-## Class Notes: -
+## AppSync lambda as datasource
+
+### Class Notes: -
 
 Rest Api dont have well defined data structure causing a lot of over and under seraching and also we dont have data structure of the response. QraphQl have very well defined schema having only one endpoint. In AWS GraphQl is implemented by AppSync with added features of security, authorization and data sources we can connect to 3 data sources (lambda, dynmodb, Http endpoint). Working with netlify we need to define appollo server to access data from GraphQL, while in AWS we dont need servers and resolvers.
 
@@ -20,14 +22,14 @@ Note, never print your API Key to the logs in a production system. This was adde
 
 - [AppSync lambda as datasource](./step03_appsync_lambda_as_datasource)
 
-## Reading Material
+### Reading Material
 
 - [AppSync](https://aws.amazon.com/appsync/)
 - [AppSync Docs](https://docs.aws.amazon.com/appsync/latest/devguide/what-is-appsync.html)
 - [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/)
 - [GraphQL Instructions](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/)
 
-## Video Lecture
+### Video Lecture
 
 - [YouTube English](https://www.youtube.com/watch?v=iJj32I9A_Nc&ab_channel=PanacloudServerlessSaaSTraining)
 - [Facebook English](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
