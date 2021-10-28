@@ -1,4 +1,4 @@
-# AppSync Lambda as Datasource
+# Step03 AppSync Lambda as Datasource
 
 ## Steps to compile code
 
