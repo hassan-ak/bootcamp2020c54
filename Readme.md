@@ -1,6 +1,6 @@
-# bootcamp2020c54 - Integrate AppSync with Lambda as a Datasource
+# bootcamp2020c54 - AWS AppSync
 
-## AppSync lambda as datasource
+## QraphQL API with AWS AppSync
 
 ### Class Notes: -
 
